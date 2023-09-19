@@ -1,0 +1,5 @@
+.DS_STORE
+poetry.lock
+.ipynb_checkpoints/
+__pycache__/
+bricks.xml
